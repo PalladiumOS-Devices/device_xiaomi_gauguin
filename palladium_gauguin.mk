@@ -23,3 +23,10 @@ PRODUCT_BRAND := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
+
+#PALLADIUM-PROPS
+PRODUCT_PRODUCT_PROPERTIES += \
+	ro.palladiumdevice.maintainer=Sakurai \
+	ro.palladiumdevice.cpu=SD750G \
+	ro.palladiumdevice.display=6.7 \
+	ro.palladiumdevice.displaytype=FULLHD+
