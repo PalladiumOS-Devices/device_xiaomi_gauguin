@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "baolong24/proprietary_vendor_xiaomi_gauguin",
+    "target_path": "vendor/xiaomi/gauguin",
+    "branch": "eleven"
+  }
+]
